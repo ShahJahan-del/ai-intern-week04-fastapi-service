@@ -1,0 +1,14 @@
+Call 1 : 0.0359s
+Call 2 : 0.0684s
+Call 3 : 0.0768s
+Call 4 : 0.0364s
+Call 5 : 0.0520s
+Call 6 : 0.0691s
+Call 7 : 0.0420s
+Call 8 : 0.0485s
+Call 9 : 0.0812s
+Call 10 : 0.0224s
+
+Median latency : 50.3
+Average latency : 53.3
+Cold-start : 0.0359s
