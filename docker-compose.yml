@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    container_name: imdb_sentiment_api
+    ports:
+      - "7860:7860"
+    restart: always
