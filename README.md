@@ -1,7 +1,7 @@
 ---
 title: IMDb Sentiment FastAPI Service
 colorFrom: blue
-colorTo: gree
+colorTo: green
 sdk: docker
 app_port: 7860
 pinned: false
